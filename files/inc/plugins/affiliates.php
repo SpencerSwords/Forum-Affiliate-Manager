@@ -5,7 +5,7 @@
  *
  * Version: 1.1
  *
- * Author: Spencer
+ * Author: Spencer Swords
  */
 
 if(!defined("IN_MYBB"))
@@ -25,7 +25,7 @@ function affiliates_info()
 		"name"			=> "Forum Affiliates Manager",
 		"description"	=> "Easily manage your forum's affiliates.",
 		"website"		=> "http://community.mybb.com/user-23387.html",
-		"author"		=> "Spencer",
+		"author"		=> "Spencer Swords",
 		"authorsite"	=> "http://community.mybb.com/user-23387.html",
 		"version"		=> "1.1",
 		"guid" 			=> "268b7d5d5bc2892de0f3aefcc82deb99",
